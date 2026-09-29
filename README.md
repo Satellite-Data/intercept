@@ -24,3 +24,7 @@ A reference sheet is available here:
 **[International Morse Code Reference](files/morse-reference.pdf)**
 
 Record the decoded message and give it to your event facilitator.
+
+### SDR++ Screenshot 
+
+![sdrpp screenshot](./images/sdrpp_screenshot.png)
