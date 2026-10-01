@@ -8,7 +8,7 @@ Use **SDR++** to investigate the captured signal and determine the message being
 
 ### Getting started
 
-1. Download [`files/intercept.wav`](files/intercept.wav).
+1. Download [`files/intercept.wav`](https://github.com/Satellite-Data/intercept/raw/refs/heads/main/files/intercept.wav).
 2. Launch **SDR++** on one of the Linux computers using the command **sdrpp** in a terminal window.
 3. Select **File Source** and open `intercept.wav`.
 4. Start the file and examine the spectrum and waterfall.
